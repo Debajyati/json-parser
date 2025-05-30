@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -std=c++17 jsonnode.cpp tokenizer.cpp parser.cpp pretty_printer.cpp ast_printer.cpp dot_ast_exporter.cpp main.cpp -o json_parser
