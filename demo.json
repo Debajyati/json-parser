@@ -1,0 +1,80 @@
+{
+  "username": "darklord",
+  "profile": {
+    "name": {
+      "first": "Debajyati",
+      "last": "Dey",
+      "aliases": []
+    },
+    "age": 20,
+    "title": "Overseer of Chaos",
+    "species": "Homo Sapiens",
+    "isStudent": true,
+    "hasBacklogs": false,
+    "achievements": null
+  },
+  "contact": {
+    "email": "darklord@nethermail.com",
+    "phone": null,
+    "social": {
+      "github": "https://github.com/Debajyati",
+      "twitter": "@ddebajyati"
+    }
+  },
+  "skills": [
+    "C++",
+    "TypeScript",
+    "Linux wizardry",
+    "Elixir Alchemy",
+    {
+      "language": "Elixir",
+      "level": "beginner"
+    },
+    {
+      "language": "Lua",
+      "level": "intermediate",
+      "usingSince": 2023
+    }
+  ],
+  "hobbies": [
+    "watching anime",
+    "grinding code at 3AM",
+    "philosophical debates with LLMs"
+  ],
+  "projects": [
+    {
+      "name": "NKrypTor",
+      "type": "image encryption",
+      "modesSupported": ["ECB", "CBC", "PCBC", "CFB", "XOR"],
+      "languages&Frameworks": ["Python", "Streamlit"]
+    },
+    {
+      "name": "JSON Parser",
+      "language": "C++",
+      "features": {
+        "ASTPrinter": true,
+        "PrettyPrinter": true,
+        "DOTExport": true,
+        "ErrorHandling": ["runtime_error", "logic_error"]
+      }
+    }
+  ],
+  "interests": {
+    "music": {
+      "genre": ["instrumental", "rock", "soft", "dark grin", "gothic", "spiritual"],
+      "bands": ["Fossils", "Fall Out Boy"],
+      "currentlyPlaying": null
+    },
+    "philosophy": {
+      "topics": ["existentialism", "stoicism", "radical acceptance"],
+      "favoriteThinker": "Nietzsche"
+    },
+    "tech": {
+      "likes": ["low level programming", "Web API Development", "developing libraries"],
+      "dislikes": []
+    }
+  },
+  "sessions": [],
+  "active": true,
+  "premiumMember": false
+}
