@@ -1,3 +1,5 @@
+# ![json-parser-logo](https://github.com/Debajyati/json-parser/blob/main/JSON%20Parser%20Logo.png)
+
 It is a JSON Parser in C++. 
 
 You can compile the main file by running the script - 
